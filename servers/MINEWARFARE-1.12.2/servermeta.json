@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///D:/helios/MINEWARFARE/distro/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "MINEWARFARE (Minecraft 1.12.2)",
+    "description": "MINEWARFARE Running Minecraft 1.12.2 (Forge v14.23.5.2859)",
+    "icon": "https://raw.githubusercontent.com/limd5939/MINEWARFARE-distro/main/serverIMG.png",
+    "address": "61.73.174.198",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "forge": {
+    "version": "14.23.5.2859"
+  },
+  "untrackedFiles": []
+}
