@@ -12,7 +12,7 @@
       "name": "MINEWARFARE (Minecraft 1.12.2)",
       "description": "MINEWARFARE Running Minecraft 1.12.2 (Forge v14.23.5.2859)",
       "icon": "https://raw.githubusercontent.com/limd5939/MINEWARFARE-distro/main/serverIMG.png",
-      "version": "1.0.3",
+      "version": "1.0.4",
       "address": "61.73.174.198",
       "minecraftVersion": "1.12.2",
       "discord": {
@@ -373,16 +373,6 @@
             "size": 8490451,
             "url": "https://raw.githubusercontent.com/limd5939/MINEWARFARE-distro/main/servers/MINEWARFARE-1.12.2/forgemods/required/voicechat-forge-1.12.2-2.4.6.jar",
             "MD5": "4a69174962cfc812fcde26d04636dd8b"
-          }
-        },
-        {
-          "id": "generated.library:OptiFine_1.12.2_HD_U_G5:0.0.0@jar",
-          "name": "OptiFine_1.12.2_HD_U_G5",
-          "type": "Library",
-          "artifact": {
-            "size": 2669107,
-            "url": "https://raw.githubusercontent.com/limd5939/MINEWARFARE-distro/main/servers/MINEWARFARE-1.12.2/libraries/OptiFine_1.12.2_HD_U_G5.jar",
-            "MD5": "54e561e441192cf009803ae95873c5d0"
           }
         },
         {
