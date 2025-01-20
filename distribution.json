@@ -12,7 +12,7 @@
       "name": "MINEWARFARE (Minecraft 1.12.2)",
       "description": "MINEWARFARE Running Minecraft 1.12.2 (Forge v14.23.5.2859)",
       "icon": "https://raw.githubusercontent.com/limd5939/MINEWARFARE-distro/main/serverIMG.png",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "address": "61.73.174.198",
       "minecraftVersion": "1.12.2",
       "discord": {
@@ -376,13 +376,23 @@
           }
         },
         {
+          "id": "generated.library:OptiFine_1.12.2_HD_U_G5:0.0.0@jar",
+          "name": "OptiFine_1.12.2_HD_U_G5",
+          "type": "Library",
+          "artifact": {
+            "size": 2669107,
+            "url": "https://raw.githubusercontent.com/limd5939/MINEWARFARE-distro/main/servers/MINEWARFARE-1.12.2/libraries/OptiFine_1.12.2_HD_U_G5.jar",
+            "MD5": "54e561e441192cf009803ae95873c5d0"
+          }
+        },
+        {
           "id": "generated.library:OptiFine_1.12.2_HD_U_G5_MOD:0.0.0@jar",
           "name": "OptiFine_1.12.2_HD_U_G5_MOD",
           "type": "Library",
           "artifact": {
             "size": 2457427,
             "url": "https://raw.githubusercontent.com/limd5939/MINEWARFARE-distro/main/servers/MINEWARFARE-1.12.2/libraries/OptiFine_1.12.2_HD_U_G5_MOD.jar",
-            "MD5": "99271b63fb7cf5aac2acb076c8cc8d08"
+            "MD5": "8fa703d09cc5dee821e0c439f4ba999c"
           }
         },
         {
@@ -415,6 +425,16 @@
             "url": "https://raw.githubusercontent.com/limd5939/MINEWARFARE-distro/main/servers/MINEWARFARE-1.12.2/files/resourcepacks/cocricot_1.12.2_v1.11.0.zip",
             "MD5": "418afd51739723d5233e9ccf7c33a131",
             "path": "resourcepacks/cocricot_1.12.2_v1.11.0.zip"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 78,
+            "url": "https://raw.githubusercontent.com/limd5939/MINEWARFARE-distro/main/servers/MINEWARFARE-1.12.2/files/servers.dat",
+            "path": "servers.dat"
           }
         }
       ]
