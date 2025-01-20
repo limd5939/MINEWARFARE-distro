@@ -15,7 +15,7 @@ difficulty:2
 fancyGraphics:true
 ao:2
 renderClouds:true
-resourcePacks:[]
+resourcePacks:["1-12-2-eye-friendly-guis-1517467593.zip","cocricot_1.12.2_v1.11.0.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:ko_kr

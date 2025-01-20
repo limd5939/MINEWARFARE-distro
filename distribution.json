@@ -12,7 +12,7 @@
       "name": "MINEWARFARE (Minecraft 1.12.2)",
       "description": "MINEWARFARE Running Minecraft 1.12.2 (Forge v14.23.5.2859)",
       "icon": "https://raw.githubusercontent.com/limd5939/MINEWARFARE-distro/main/serverIMG.png",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "address": "61.73.174.198",
       "minecraftVersion": "1.12.2",
       "discord": {
@@ -390,7 +390,7 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 3145,
+            "size": 3216,
             "url": "https://raw.githubusercontent.com/limd5939/MINEWARFARE-distro/main/servers/MINEWARFARE-1.12.2/files/options.txt",
             "path": "options.txt"
           }
